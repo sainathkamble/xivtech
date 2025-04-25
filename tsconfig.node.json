@@ -6,7 +6,8 @@
     "module": "ESNext",
     "skipLibCheck": true,
     "composite": true,
-    "outDir": "./dist",
+    "outDir": "./build",
+    "emitDeclarationOnly": true,
 
     /* Bundler mode */
     "moduleResolution": "bundler",
