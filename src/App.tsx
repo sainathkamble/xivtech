@@ -66,6 +66,6 @@ const App: React.FC = () => {
       </AppContainer>
     </Provider>
   );
-};
+}
 
 export default App; 
